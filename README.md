@@ -1,6 +1,6 @@
 # Getting Started
 
-Clone the repo to your local folder. run "npm install" in <cmd> to install all the dependencies. 
+Clone the repo to your local folder. run "npm install" to install all the dependencies. 
 
 ### `npm start`
 
